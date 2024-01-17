@@ -6,4 +6,5 @@ public class Cliente
             InterfaceCliente existente = new Adaptador();
             existente.mostrar();
         }
+        
     }
